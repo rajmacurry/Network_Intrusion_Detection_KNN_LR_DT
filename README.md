@@ -1,5 +1,7 @@
 #  Network Intrusion Detection using Machine Learning
 
+Dataset: https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection
+
 This project focuses on detecting network intrusions (normal vs anomaly) using classical machine learning algorithms.  
 We compare multiple models — **K-Nearest Neighbors (KNN)**, **Logistic Regression**, and **Decision Tree** —  
 to evaluate their performance on detecting malicious network traffic.
